@@ -1,0 +1,244 @@
+{
+  "frames": [
+    {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 498,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 996,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 0,
+        "y": 373,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 498,
+        "y": 373,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 996,
+        "y": 373,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 0,
+        "y": 746,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 498,
+        "y": 746,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 996,
+        "y": 746,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 0,
+        "y": 1119,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 498,
+        "y": 1119,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    },
+    {
+      "frame": {
+        "x": 996,
+        "y": 1119,
+        "w": 498,
+        "h": 373
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 498,
+        "h": 373
+      },
+      "sourceSize": {
+        "w": 498,
+        "h": 373
+      }
+    }
+  ]
+}
