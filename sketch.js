@@ -53,8 +53,30 @@ function draw() {
 }
 
 function showBow() {
-  var bow = new Bow(100, 100, 170, 170, 100, bowAnimation);
+  if (bows.length > 0) {
+    if (
+      bows[bows.length - 1] === undefined ||
+      bows[bows.length - 1].body.position.x < width + 100
+    ) {
+      var positions = [350,400];
+      var position = random(positions);
+      var bow = new Bow(100,100, 170, 170, position);
 
-  bow.display();
-  bow.animate();
+      bows.push(bow);
+    }
+
+    for (var i = 0; i < bows.length; i++) {
+      if (bows[i]) {
+        Matter.Body.setVelocity(bows[i].body, {
+          x:9,
+          y: 0,
+        });
+
+        bows[i].display();
+      }
+    }
+  } else {
+    var bow = new Bow(100, 350, 170, 170, +60);
+    bows.push(bow);
+  }
 }
